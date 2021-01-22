@@ -10,8 +10,6 @@ public class MyBinaryNode<K extends Comparable<K>> {
         this.left = null;
         this.right = null;
     }
-    public K getKey() {
-        return key;
-    }
+
 }
 
